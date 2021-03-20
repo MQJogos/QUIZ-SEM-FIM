@@ -3,7 +3,12 @@ body{
 }
 
 .grid{
-       width:700px;
-       height:600px;
-       margin: 40 auto;
+       max-width: 700px;
+       height: 600px;
+       margin: 60px auto;
+       background-color: rgba(91, 128, 86, 0.5);
+       padding: 10px 50px 50px 50px;
+       border-radius: 50px;
+       border: 2px solid #4BF1FA;
+       box-shadow: 5px 10px 1px #4BF1FA;
 }
