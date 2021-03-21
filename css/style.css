@@ -45,5 +45,17 @@ body
   margin-top: 30px;
 }
 
+#bt0,#bt1,#bt2,#bt3
+{
+  background-color:#510b84;
+  width:250px;
+  font-size:20px;
+  color:#fff;
+  border: 1px solid #1D3C6A;
+  border-radius: 50px;
+  margin: 10px 40px 10px 0px;
+  padding:10px 10px;
+}
+
 
 
