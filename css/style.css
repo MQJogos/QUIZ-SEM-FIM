@@ -22,13 +22,31 @@ body{
        padding: 2px 0px;
        border-radius:50px;
 }
+
 #score{
        color:#5A6772;
        text-align: center;
        font-size: 30px;
 }
+
 .grid #question{
        font-family:"monospace";
        font-size: 30px;
        color:#5A6772;
 }
+
+.buttons{
+       margin-top:30px;
+}
+
+#bt0, #bt1, #bt2, #bt3{
+       background-color:#32a8a1;
+       width:250px;
+       font-size:20px;
+       color:#fff;
+       border:1px solid #1D3C6A;
+       border-radius:50px;
+       margin: 10px 40px 10px 0px;
+       padding:10px 10px;
+}
+
