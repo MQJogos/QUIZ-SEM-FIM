@@ -50,3 +50,8 @@ body{
        padding:10px 10px;
 }
 
+#btn0:hover,#bt1:hover,#bt2:hover,#bt3:hover{
+       cursor: pointer;
+       background-color:#2c0747;
+}
+
