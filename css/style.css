@@ -1,6 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,800&display=swap');
 body
 {
-  background-color:#eeeeee;
+  margin:0;
+  padding:0;
+  background-image: url("background.png"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
 }
 
 .grid
@@ -17,7 +26,6 @@ body
 
 .grid h1
 {
-  font-family:"sans-serif";
   background-color:#2c0747;
   font-size: 60px;
   text-align: center;
@@ -35,7 +43,6 @@ body
 
 .grid #question
 {
-  font-family: "monospace";
   font-size: 30px;
   color: #5A6772;
 }
