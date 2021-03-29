@@ -41,4 +41,11 @@ element.innerHTML = gameoverHTML;
 
 //create questions 
 var questions = []
-new Question("")
+new Question("Qual é o meu nome?",["BANANA",
+"BALEIA", "BABADOR","BALA"], "BALEIA"),
+
+];
+
+var quiz = new Quiz(questions);
+
+populate();
