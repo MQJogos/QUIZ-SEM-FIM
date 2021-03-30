@@ -42,8 +42,139 @@ element.innerHTML = gameoverHTML;
 
 //create questions 
 var questions = [
-new Question("Qual é o meu nome?",["BANANA",
+new Question("Meu nome é?",["BANANA",
 "BALEIA", "BABADOR","BALA"], "BALEIA"),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+
+
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
+var questions = [
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
 
 ];
 
