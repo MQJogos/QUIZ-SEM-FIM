@@ -44,22 +44,6 @@ element.innerHTML = gameoverHTML;
 
 
 
-
-
-P6
-     CUBO
-     CURATIVO 
-     CUECA- OK
-     COUVE
-
-
-P7
-     CAMA
-     CAVALO - OK
-     CADEADO
-     CASACO
-
-
 P8
      COLHER
      COROA
@@ -339,13 +323,13 @@ new Question("Meu nome é?",["COCO",
 "COLHER", "CORUJA","COROA"], "COCO"),
 
 var questions = [
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["CUBO",
+"CURATIVO", "CUECA","COUVE"], "CUECA"),
 
 
 var questions = [
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["CAMA",
+"CAVALO", "CADEADO"," CASACO"], "CAVALO  "),
 
 var questions = [
 new Question("Meu nome é?",["   ",
