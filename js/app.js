@@ -9,7 +9,7 @@ var element = document.getElementById("question");
 element.innerHTML = quiz.getQuestionIndex().text;
 
 var choices = quizQuestionIndex().choices;
-for(var i=0; i< choices.length; i++{
+for(var i=0; i< choices.length; i++){
 var element = document.getElementById("choice" + i);
 element.innerHTML = choices[i];
 guess("bt"+i,choices[i]);
@@ -41,7 +41,7 @@ element.innerHTML = gameoverHTML;
 };
 
 //create questions 
-var questions = []
+var questions = [
 new Question("Qual é o meu nome?",["BANANA",
 "BALEIA", "BABADOR","BALA"], "BALEIA"),
 
