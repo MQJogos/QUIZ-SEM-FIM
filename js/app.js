@@ -277,63 +277,62 @@ var questions = [
 new Question("Meu nome é?",["BANANA",
 "BALEIA", "BABADOR","BALA"], "BALEIA"),
 
-var questions = [
 new Question("Meu nome é?",["BALDE",
 "BOLA", "BAHIA","BALA"], "BALA"),
 
-var questions = [
+
 new Question("Meu nome é?",[" BEBÊ ",
 "BEBEU", "BERÇO","BERMUDA"], "BERÇO"),
 
-var questions = [
+
 new Question("Meu nome é?",["CABIDE",
 "CASA", "CAMA","CASTELO"], "CASA"),
 
-var questions = [
+
 new Question("Meu nome é?",["COCO",
 "COLHER", "CORUJA","COROA"], "COCO"),
 
-var questions = [
+
 new Question("Meu nome é?",["CUBO",
 "CURATIVO", "CUECA","COUVE"], "CUECA"),
 
 
-var questions = [
+
 new Question("Meu nome é?",["CAMA",
 "CAVALO", "CADEADO"," CASACO"], "CAVALO  "),
 
-var questions = [
+
 new Question("Meu nome é?",["COLHER",
 "COROA", "CORUJA","COCO"], "CORUJA"),
 
-var questions = [
+
 new Question("Meu nome é?",["CURATIVO",
 "CUBO", "CUECA","COLHER"], "CURATIVO  "),
 
-var questions = [
+
 new Question("Meu nome é?",["CORPO",
 "COLHER ","COROA","COCO"], "COROA"),
 
-var questions = [
+
 new Question("Meu nome é?",["CASTELO",
 "CASACO", "CABIDE","CAMA"], "CASACO"),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
