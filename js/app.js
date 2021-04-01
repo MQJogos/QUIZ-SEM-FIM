@@ -43,27 +43,6 @@ element.innerHTML = gameoverHTML;
 //create questions 
 
 
-P12
-        CADEIRA- OK
-        CAVALO
-        CABIDE
-        CADEADO
-
-
-P13
-        DANONE
-        DADO - OK
-        DAMA
-        DATA
-
-
-P14
-        DEDAL
-        DENTE
-        DEDO - OK
-        DENTE
-
-
 P15
         DIA
         DIAMANTE
@@ -318,8 +297,18 @@ new Question("Meu nome é?",["CASTELO",
 "CASACO", "CABIDE","CAMA"], "CASACO"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["CADEIRA",
+"CAVALO", "CABIDE","CADEADO"], "CADEIRA"),
+
+
+
+new Question("Meu nome é?",["DANONE",
+"DADO", "DAMA","DATA"], "DADO"),
+
+
+
+new Question("Meu nome é?",["DEDAL",
+"DENTE", "DEDO","DENTE"], "DEDO"),
 
 
 
@@ -327,81 +316,69 @@ new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
 
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
 
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
 
+new Question("Meu nome é?",["   ",
+"   ", "   ","    "], "  "),
+
 
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
 
-var questions = [
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
+
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
-var questions = [
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
 
-var questions = [
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
-
-var questions = [
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
-
-var questions = [
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
-
-var questions = [
 new Question("Meu nome é?",["   ",
 "   ", "   ","    "], "  "),
 
