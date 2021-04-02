@@ -44,27 +44,6 @@ element.innerHTML = gameoverHTML;
 
 
 P15
-        DIA
-        DIAMANTE
-        DIGITAL
-        DINHEIRO - OK
-
-
-
-       HOSPITAL- OK
-       HOSPÍCIO 
-       HOTEL
-       HOMEM
-
-
-P14
-       HIGIENE
-       HIENA - OK
-       HÉLICE
-       HARPA
-
-
-P15
         LARANJA - OK
         LADEIRA
         LATERNA
@@ -312,15 +291,15 @@ new Question("Meu nome é?",["DEDAL",
 
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["DIA",
+"DIAMANTE", "DIGITAL","DINHEIRO"], "DINHEIRO"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["HOSPITAL",
+"HOSPÍCIO", "HOTEL","HOMEM"], "HOSPITAL"),
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["HIGIENE",
+"HIENA", "HÉLICE","HARPA"], "HIENA"),
 
 
 new Question("Meu nome é?",["   ",
