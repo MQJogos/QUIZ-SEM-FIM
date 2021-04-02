@@ -1,7 +1,7 @@
 function populate()
 {
   if(quiz.isEnded()){
-  showscores();
+  showScores();
 }
 
 else{
