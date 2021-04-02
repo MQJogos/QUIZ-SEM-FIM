@@ -43,27 +43,6 @@ element.innerHTML = gameoverHTML;
 //create questions 
 
 
-P22
-         
-
-
-P23
-        
-
-
-P24
-         
-
-
-P25
-         
-
-
-P26
-
-
-P27
-        
 
 
 P28
