@@ -43,101 +43,27 @@ element.innerHTML = gameoverHTML;
 //create questions 
 
 
-P15
-        LARANJA - OK
-        LADEIRA
-        LATERNA
-        LÁPIS
-
-P16
-        LIMÃO
-        LESMA
-        LEÃO - OK
-        LATA
-
-
-P17
-        LUA
-        LOBO - OK
-        LUVA 
-        LEITE
-
-
-P18
-        LIVRO
-        LIXO - OK
-        LIXA
-        LIMÃO 
-
-
-P19
-        LUTA
-        LUA
-        LUVA - OK
-        LOBO
-
-
-P20
-        LEITE - OK
-        LEVE
-        LEBRE
-        LEQUE
-
-
-P21
-        LAMA
-        LAÇO
-        LATA - OK
-        LANTERNA
-
-
 P22
-        LUA - OK
-        LUPA
-        LUTA
-        LUVA
-
-
-P22
-         LIMA
-         LIXO
-         LIMÃO - OK
-         LIVRO
+         
 
 
 P23
-        PANELA - OK
-        CANELA
-        PAMONHA 
-        PAVÃO 
+        
 
 
 P24
-         PERNA
-         PETECA - OK
-         PENEIRA
-         PERU
+         
 
 
 P25
-         PIMENTA
-         PINÓQUIO
-         PIPOCA - OK
-         PINTURA
+         
 
 
 P26
-        PINÓQUIO - OK
-        PIMENTA
-        PINGUIM
-        PIPOCA
 
 
 P27
-        PULGA
-        PUDIM - OK
-        PINGUIM
-        POLVO
+        
 
 
 P28
@@ -302,64 +228,60 @@ new Question("Meu nome é?",["HIGIENE",
 "HIENA", "HÉLICE","HARPA"], "HIENA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LARANJA",
+"LADEIRA", "LANTERNA","LÁPIS"], "LARANJA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LIMÃO",
+"LESMA", "LEÃO","LATA"], "LEÃO"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LUA",
+"LOBO ", "LUVA","LEITE"], "LOBO"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LIVRO",
+"LIXA", "LIXO  ","LIMÃO"], "LIXO"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LUTA",
+"LUA", "LUVA","LOBO"], "LUVA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",[" LEITE",
+"LEVE", "LEBRE","LEQUE"], "LEITE"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LAMA",
+"LAÇO", "LANTERNA","LATA"], "LATA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LUA",
+"LUPA", "LUTA","LUVA"], "LUA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["LIMA",
+"LIXO", "LIVRO","LIMÃO"], "LIMÃO"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["PANELA",
+"CANELA", "PAMONHA","PAVÃO"], "PANELA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["PERNA",
+"PETECA", "PENEIRA","PERU"], "PETECA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["PIMENTA",
+"PINÓQUIO", "PIPOCA","PINTURA"], "PIPOCA"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["PINÓQUIO",
+"PIMENTA", "PINGUIM","PIPOCA"], "PINÓQUIO"),
 
 
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
-
-
-new Question("Meu nome é?",["   ",
-"   ", "   ","    "], "  "),
+new Question("Meu nome é?",["PULGA",
+"PUDIM", "PINGUIM","POLVO"], "PUDIM"),
 
 ];
 
