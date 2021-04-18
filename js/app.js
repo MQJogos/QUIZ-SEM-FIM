@@ -31,7 +31,7 @@ function guess(id, guess) {
 function showProgress() {
     var currentQuestionNumber = quiz.questionIndex + 1;
     var element = document.getElementById("progress");
-    element.innerHTML = "Question " + currentQuestionNumber + " of " + quiz.questions.length;
+    element.innerHTML = " " + currentQuestionNumber + " / " + quiz.questions.length;
 };
 
 function showScores() {
@@ -43,14 +43,13 @@ function showScores() {
 
 // create questions
 var questions = [
-   '.jpg','.jpg','.jpg' ,'ILHA.jpg'
+    
     new Question("_BACAXI", ["A", "I","E", "I"], "A"),
 
     new Question("_SQUILO", ["A", "I","O", "E"], "E"),
     
     new Question("_BELHA?", ["E", "I","A", "O"], "A"),
     
-'ONIBUS.jpg','AVIAO.jpg','UNHAS.jpg','ELEFANTE
     new Question("_NIBUS?", ["U", "E","I", "Ô"], "Ô"),
         
 
