@@ -8,14 +8,14 @@ Quiz.prototype.getQuestionIndex = function() {
   return this.questions[this.questionIndex];
 }
 
-Quiz.prototype.guess = function(answer){
-  if (this.getQuestionIndex().iscorrectAnswer(answer)) {
-    this.score++;
+Quiz.prototype.guess = function(answer) {
+  if(this.getQuestionIndex().isCorrectAnswer(answer)) {
+      this.score++;
   }
+
   this.questionIndex++;
 }
 
-Quiz.prototype.isEnded = function(){
-  return this.questionIndex ===
-  this.questions.length;
+Quiz.prototype.isEnded = function() {
+  return this.questionIndex === this.questions.length;
 }
