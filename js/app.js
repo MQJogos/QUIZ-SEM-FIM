@@ -44,13 +44,23 @@ function showScores() {
 // create questions
 var questions = [
     
-    new Question("_BACAXI", ["A", "I","E", "I"], "A"),
+    new Question("_BACAXI <br><img src='ABACAXI.jpg'/></br>", ["A", "O","E", "I"], "A"),
 
-    new Question("_SQUILO", ["A", "I","O", "E"], "E"),
+    new Question("_SQUILO <br><img src='ESQUILO.jpg'/></br> ", ["A", "I","O", "E"], "E"),
     
-    new Question("_BELHA?", ["E", "I","A", "O"], "A"),
-    
-    new Question("_NIBUS?", ["U", "E","I", "Ô"], "Ô"),
+    new Question("_BELHA? <br><img src='ABELHA.jpg'/></br>", ["E", "I","A", "O"], "A"),
+
+    new Question("_GLU? <br><img src='IGLU.jpg'/></br>", ["U", "E","I", "A"], "I"),
+
+    new Question("_VA? <br><img src='ONIBUS.jpg'/></br>", ["U", "E","I", "O"], "U"),
+
+    new Question("_BOBORA? <br><img src='ABOBORA.jpg'/></br>", ["U", "A","I", "Ô"], "A"),
+
+    new Question("_LEFANTE? <br><img src='ONIBUS.jpg'/></br>", ["U", "E","I", "O"], "E"),
+
+    new Question("_BELHA? <br><img src='ONIBUS.jpg'/></br>", ["U", "E","I", "A"], "A"),
+
+    new Question("_RVORE? <br><img src='ONIBUS.jpg'/></br>", ["U", "A","I", "E"], "A"),
         
 
 ];
